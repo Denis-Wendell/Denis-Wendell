@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Denis-Wendell
 - 👀 I'm interested in learning more every day to improve my knowledge and be able to constantly develop myself!
 - 🌱 I’m currently learning the python language.
-- 💞️ I’m looking to collaborate on ...
-- 📫 you can contact me through instagram @denis.wendell
+- 📫 you can contact me through instagram @denis.wendell ou pelo e-mail deniswendell0101@gmail.com
 
 <!---
 Denis-Wendell/Denis-Wendell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

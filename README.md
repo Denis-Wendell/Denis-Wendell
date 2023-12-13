@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Olá, sou @Denis-Wendell<br>👀Tenho interesse em aprender cada dia mais para aprimorar meus conhecimentos e<br> poder me desenvolver constantemente na área de desenvolvimento e programação!<br>🌱Atualmente estou aprendendo a linguagem python e JavaScript.<br>📫você pode entrar em contato comigo pelo instagram @denis.wendell ou pelo e-mail do72831@gmail.com
+👋Olá, sou @Denis-Wendell<br>👀Tenho interesse em aprender cada dia mais para aprimorar meus conhecimentos e<br> poder me desenvolver constantemente na área de desenvolvimento e programação!<br>🌱Atualmente estou aprendendo a linguagem python, JavaScript e de FrameWork React JS.<br>📫você pode entrar em contato comigo pelo instagram @denis.wendell ou pelo e-mail do72831@gmail.com
 
 
 ## 🌐 Socials:
